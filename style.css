@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #121212;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+#chart {
+  width: 100vw;
+  height: 70vh;
+}
+
+#controls, #info {
+  padding: 10px;
+  background-color: #1e1e1e;
+}
+
+select {
+  background: #333;
+  color: #fff;
+  border: none;
+  padding: 5px;
+}
+
+#info div {
+  font-size: 14px;
+  margin: 5px 0;
+}
